@@ -7,4 +7,4 @@ function calculateTotal(array $cart): float {
     }
     return (float)$total;
 }
-?>
+
